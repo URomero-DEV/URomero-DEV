@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd2ZTJoMm5tcXpjcWhvbmw2ajhzZWxpODF2NXMza3VuZDV0cTBxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SwImQhtiNA7io/giphy.gif" width="200" />
-    <h1 align="center">¡Hola! Soy Unai Romero</h1>
+    <h1 align="center">¡Hola! Soy Unai :)</h1>
     <h3 align="center">"Soy como un programa en versión beta: tengo algunas funciones geniales, pero todavía necesito un poco de pulido."</h3>
 </div>
 
