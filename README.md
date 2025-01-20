@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 Sobre mi:
+# 💫 Sobre mi:
 
 - 📝 Curso un grado en Desarrollo de Aplicaciones Multiplataforma y además estudio de manera autodidacta.
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🌐 Mis sitios:
+# 🌐 Mis sitios:
 <p align="center">
     <a href="https://linkedin.com/in/unai-romero-621784302">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
